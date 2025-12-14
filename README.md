@@ -282,32 +282,33 @@ curl -X GET http://localhost:8080/api/sweets \
 
 ## 📸 Screenshots
 
+
 ### Login Page
-![Login Page]
+![Login Page](\Images\loginpage.png)
 *User login interface with username and password fields*
 
 ### Registration Page
-register user
+[register user](\Images\registerpage.png)
 *New user registration form*
 
 ### Dashboard - User View
-
+[User dashboard](Images\userdashboard.png)
 *Main dashboard showing all available sweets with search and filter options*
 
 ### Dashboard - Admin View
-Admin dashboard
+[Admin dashboard](Images\adminviwe.png)
 *Admin dashboard with additional "Add Sweet" button and edit/delete/restock options*
 
 ### Add Sweet Modal
-![Add Sweet]
+![Add Sweet](Images\AddSweet.png)
 *Admin interface for adding new sweets to inventory*
 
 ### Edit Sweet Modal
-![Edit Sweet
+![Edit Sweet](Images\editSweetmodel.png)
 *Admin interface for editing existing sweet details*
 
 ### Search and Filter
-![Search Filter]
+![Search Filter](Images\search&filter.png)
 *Advanced search and filter interface with name, category, and price range options*
 
 > **Note**: Please add actual screenshots of your application to the `screenshots/` directory and update the paths above.
