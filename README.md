@@ -373,6 +373,7 @@ Tests:       5 passed, 5 total
 ## 🚢 Deployment
 
 Application is Rnning on Local Machin Only have not deployed yet
+
 ## 🤖 My AI Usage
 
 ### AI Tools Used
@@ -386,7 +387,7 @@ During the development of this project, I utilized **Cursor AI** (powered by Cla
    - Example: "Generate a Spring Boot controller for managing sweets with CRUD operations"
 
 #### 2. **Security Configuration**
-- **JWT Authentication Setup**: I asked Cursor AI to help implement JWT-based authentication, including:
+- **JWT Authentication Setup**: I asked ChatGPT AI to help implement JWT-based authentication, including:
   - JWT token generation and validation logic
   - Spring Security filter chain configuration
   - CORS configuration for cross-origin requests
@@ -402,20 +403,16 @@ During the development of this project, I utilized **Cursor AI** (powered by Cla
    - Example: "Create a React modal component for adding sweets with form validation"
 
 #### 4. **Error Handling and Debugging**
-- **Troubleshooting**: When encountering the 403 Forbidden error during login, I consulted Cursor AI to:
+- **Troubleshooting**: When encountering the 403 Forbidden error during login, I consulted ChatGPT AI to:
   - Understand Spring Security filter chain behavior
   - Debug CORS configuration issues
   - Fix JWT filter implementation
   - Resolve authentication flow problems
    - Example: "Why am I getting 403 errors on /api/auth/login even though I have permitAll() configured?"
 
-#### 5. **Database Query Optimization**
-- **Repository Methods**: I asked Cursor AI to help create efficient JPA repository methods for:
-  - Searching sweets by multiple criteria (name, category, price range)
-  - Combining multiple search parameters
-   - Example: "How can I create a search method that filters by name, category, and price range simultaneously?"
 
-#### 6. **Code Refactoring**
+
+#### 5. **Code Refactoring**
 - **Best Practices**: I used Cursor AI to refactor code for:
   - Improving code organization
   - Following Spring Boot best practices
@@ -423,8 +420,8 @@ During the development of this project, I utilized **Cursor AI** (powered by Cla
   - Adding validation annotations
    - Example: "Refactor this service method to follow Spring Boot best practices with proper error handling"
 
-#### 7. **Documentation**
-- **README Generation**: I used Cursor AI to help structure and write comprehensive documentation, including:
+#### 6. **Documentation**
+- **README Generation**: I used GitHub Copilat AI to help structure and write comprehensive documentation, including:
   - Setup instructions
   - API endpoint documentation
   - Deployment guides
@@ -497,13 +494,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👤 Author
 
-[Your Name]
+[Ashwin Satpute]
 
 ## 🙏 Acknowledgments
 
